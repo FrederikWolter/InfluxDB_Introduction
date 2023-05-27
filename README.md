@@ -1,4 +1,4 @@
-# InfluxDB-Introduction
+# InfluxDB_Introduction
 
 This project is created as part of the lecture 'DB Implementation' in the summer semester 2023 in the Applied Computer
 Science course at DHBW Mannheim.
